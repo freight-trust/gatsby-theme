@@ -14,10 +14,14 @@
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-plugin-flowtype": "^5.2.0",
     "gatsby": "^2.24.14",
     "husky": "^4.2.5",
+    "prettier": "^2.1.0",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "webpack": "^4.44.1"
   },
   "dependencies": {
     "@babel/core": "^7.10.4",
@@ -29,6 +33,7 @@
     "@mdx-js/react": "^1.5.5",
     "@reach/router": "^1.2.1",
     "@vimeo/player": "^2.9.1",
+    "babel-eslint": "^10.1.0",
     "beautiful-react-hooks": "^0.23.1",
     "carbon-components": "^10.16.0",
     "carbon-components-react": "^7.16.0",
@@ -36,6 +41,9 @@
     "classnames": "^2.2.6",
     "copy-to-clipboard": "^3.2.0",
     "emotion-theming": "^10.0.10",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-wesbos": "^0.0.22",
+    "eslint-plugin-mdx": "^1.8.2",
     "focus-trap-react": "^6.0.0",
     "gatsby-plugin-catch-links": "^2.2.1",
     "gatsby-plugin-emotion": "^4.2.1",

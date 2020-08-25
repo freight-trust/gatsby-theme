@@ -2,6 +2,10 @@
 
 > Gatsby Generic Theme for Freight Trust and Clearing
 
+## NPM Package
+
+[npmjs.com/package/@fr8/gatsby-theme](https://www.npmjs.com/package/@fr8/gatsby-theme)
+
 ## What is this?
 
 > Gatsby [themes](https://www.gatsbyjs.org/docs/themes/) encapsulate all of the

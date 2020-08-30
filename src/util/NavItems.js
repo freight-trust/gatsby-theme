@@ -4,7 +4,7 @@ export function useNavItems() {
   const {
     allNavItemsYaml: { edges },
   } = useStaticQuery(graphql`
-    query LEFT_NAV_QUERY {
+    query leftNavQueryAndLeftNavQuery {
       allNavItemsYaml {
         edges {
           node {
